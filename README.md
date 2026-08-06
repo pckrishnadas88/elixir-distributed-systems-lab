@@ -70,7 +70,7 @@ Every example is:
   * `receive`
   * Request–reply protocol
 
-* [ ] **02 - Correlated Request Reply**
+* [x] **02 - Correlated Request Reply**
 
   * `make_ref/0`
   * Request IDs
