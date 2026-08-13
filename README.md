@@ -77,7 +77,7 @@ Every example is:
   * Matching replies
   * Concurrent clients
 
-* [ ] **03 - Process Monitoring**
+* [x] **03 - Process Monitoring**
 
   * `Process.monitor/1`
   * Detecting process termination
