@@ -30,6 +30,15 @@ A worker may finish normally:
 ```elixir
 send(worker, :stop)
 ```
+---
+
+## References
+
+- Blog post: [Process monitoring in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
+
+- Adjacent posts:
+  - Previous: [Correlated request–reply in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
+  - Next: None
 
 or crash unexpectedly:
 

@@ -253,3 +253,9 @@ The next example introduces request identifiers using `make_ref/0` so multiple c
 - Elixir `spawn/1`
 - Elixir `send/2`
 - Elixir `receive`
+ 
+- Blog post: [Building a stateful process in Elixir without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
+
+- Adjacent posts:
+    - Previous: None
+    - Next: [Correlated request–reply in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)

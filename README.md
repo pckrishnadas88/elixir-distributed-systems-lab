@@ -69,6 +69,8 @@ Every example is:
   * `send`
   * `receive`
   * Request–reply protocol
+  
+  * Blog post: [Building a stateful process in Elixir without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
 
 * [x] **02 - Correlated Request Reply**
 
@@ -76,12 +78,16 @@ Every example is:
   * Request IDs
   * Matching replies
   * Concurrent clients
+  
+  * Blog post: [Correlated request–reply in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
 
 * [x] **03 - Process Monitoring**
 
   * `Process.monitor/1`
   * Detecting process termination
   * DOWN messages
+  
+  * Blog post: [Process monitoring in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
 
 * [ ] **04 - Process Linking**
 
@@ -258,6 +264,8 @@ Each project in this repository is accompanied by a technical article explaining
 * Failure cases
 * Trade-offs
 * Relationship to OTP abstractions
+
+
 
 ---
 
