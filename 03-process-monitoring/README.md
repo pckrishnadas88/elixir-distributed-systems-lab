@@ -32,13 +32,6 @@ send(worker, :stop)
 ```
 ---
 
-## References
-
-- Blog post: [Process monitoring in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
-
-- Adjacent posts:
-  - Previous: [Correlated request–reply in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
-  - Next: None
 
 or crash unexpectedly:
 
@@ -491,6 +484,12 @@ The next example introduces `spawn_link/1` and process links to demonstrate how 
 ---
 
 ## References
+
+- Blog post: [Process monitoring in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
+
+- Adjacent posts:
+  - Previous: [Correlated request–reply in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
+  - Next: [04 - Process Linking](../04-process-linking/README.md)
 
 * Erlang Processes
 * Erlang Process Monitoring
