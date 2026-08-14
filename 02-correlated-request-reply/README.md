@@ -651,6 +651,15 @@ This begins the transition from basic message passing toward fault detection on 
 
 ## References
 
+- Blog post: [Correlated request–reply in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
+
+- Adjacent posts:
+    - Previous: [Building a stateful process in Elixir without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
+    - Next: [Process monitoring in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
+---
+
+## References
+
 * Erlang Processes
 * Erlang Message Passing
 * Elixir `spawn/1`
