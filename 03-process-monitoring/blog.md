@@ -1,10 +1,4 @@
----
-
-title: "Building Distributed Systems in Elixir: Part 3 — Process Monitoring"
-published: false
-description: "Learn how Elixir processes monitor other processes, detect crashes, and receive DOWN messages using raw BEAM primitives."
-tags: elixir, erlang, distributedsystems, programming
------------------------------------------------------
+# Building Distributed Systems in Elixir: Part 3 — Process Monitoring
 
 In the previous parts of this series, we built a stateful process using a mailbox and then added correlated request–reply using references.
 
