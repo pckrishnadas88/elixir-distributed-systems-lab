@@ -571,4 +571,19 @@ and the `:DOWN` messages delivered when a monitored process terminates.
 
 That will be the first step from basic message passing toward understanding how the BEAM detects and reacts to process failures.
 
-The full source for this example is available in the repository: https://github.com/pckrishnadas88/elixir-distributed-systems-lab/tree/main/02-correlated-request-reply
+Source code link : https://github.com/pckrishnadas88/elixir-distributed-systems-lab/tree/main/02-correlated-request-reply
+
+---
+
+## Series
+
+1. [Process Mailbox](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
+2. **Correlated Request/Reply**
+3. [Process Monitoring](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
+4. [Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
+
+---
+
+← Previous: [Part 1 — Process Mailbox](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
+
+Next: [Part 3 — Process Monitoring](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p) →

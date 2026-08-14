@@ -89,11 +89,13 @@ Every example is:
   
   * Blog post: [Process monitoring in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
 
-* [ ] **04 - Process Linking**
+* [x] **04 - Process Linking**
 
   * `spawn_link/1`
   * Exit propagation
   * Linked processes
+
+  * Blog post: [Process linking in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
 
 * [ ] **05 - Supervisor From Scratch**
 

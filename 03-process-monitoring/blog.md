@@ -693,12 +693,22 @@ and see how failures propagate between linked processes.
 
 ---
 
+Source code link : https://github.com/pckrishnadas88/elixir-distributed-systems-lab/tree/main/03-process-monitoring
+
+---
+
 ## Series
 
-1. Process Mailbox
-2. Correlated Request/Reply
+1. [Process Mailbox](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
+2. [Correlated Request/Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
 3. **Process Monitoring**
-4. Process Linking
-5. Supervisor From Scratch
+4. [Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
+5. Supervisor From Scratch *(coming soon)*
 
 The examples intentionally use low-level process primitives first so we can understand what OTP abstractions are solving before using them.
+
+---
+
+← Previous: [Part 2 — Correlated Request/Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
+
+Next: [Part 4 — Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb) →

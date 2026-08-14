@@ -397,8 +397,17 @@ Although intentionally minimal, this example forms the foundation for understand
 
 ---
 
-**Source Code**
+Source code link : https://github.com/pckrishnadas88/elixir-distributed-systems-lab/tree/main/01-process-mailbox
 
-The complete runnable example is available on GitHub:
+---
 
-**Repository:** *https://github.com/pckrishnadas88/elixir-distributed-systems-lab/tree/main/01-process-mailbox*
+## Series
+
+1. **Process Mailbox**
+2. [Correlated Request/Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
+3. [Process Monitoring](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
+4. [Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
+
+---
+
+Next: [Part 2 — Correlated Request/Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a) →
