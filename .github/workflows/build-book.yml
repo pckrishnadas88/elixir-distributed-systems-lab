@@ -1,0 +1,22 @@
+name: Build Book PDF
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-book:
+    runs-on: ubuntu-latest
+    container:
+      image: pandoc/latex:latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Make build script executable
+        run: chmod +x book/build.sh
+      - name: Build book
+        run: ./book/build.sh
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: elixir-distributed-systems-lab-pdf
+          path: book/elixir-distributed-systems-lab.pdf
