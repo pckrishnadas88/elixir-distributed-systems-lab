@@ -775,12 +775,12 @@ The next example uses process links and exit trapping to build a basic superviso
 
 ## References
 
-* Blog post: None
+* Blog post: [Process linking in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
 
 * Adjacent posts:
 
   * Previous: [Process monitoring in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
-  * Next: None
+  * Next: [Supervisor from scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh)
 
 * Erlang Processes
 

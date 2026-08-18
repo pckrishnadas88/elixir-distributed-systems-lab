@@ -643,9 +643,10 @@ Source code link : https://github.com/pckrishnadas88/elixir-distributed-systems-
 2. [Correlated Request/Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
 3. [Process Monitoring](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
 4. **Process Linking**
+5. [Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh)
 
 ---
 
 ← Previous: [Part 3 — Process Monitoring](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
 
-Next: Part 5 — Supervisor From Scratch *(coming soon)* →
+Next: [Part 5 — Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh) →

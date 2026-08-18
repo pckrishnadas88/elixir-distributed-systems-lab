@@ -1,4 +1,10 @@
-# Elixir Distributed Systems Lab
+# Building Distributed Systems in Elixir
+
+[![GitHub Stars](https://img.shields.io/github/stars/pckrishnadas88/elixir-distributed-systems-lab?style=flat)](https://github.com/pckrishnadas88/elixir-distributed-systems-lab/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/pckrishnadas88/elixir-distributed-systems-lab?style=flat)](https://github.com/pckrishnadas88/elixir-distributed-systems-lab/network/members)
+[![CI](https://img.shields.io/github/actions/workflow/status/pckrishnadas88/elixir-distributed-systems-lab/ci.yml?label=CI)](https://github.com/pckrishnadas88/elixir-distributed-systems-lab/actions)
+[![Elixir](https://img.shields.io/badge/Elixir-1.18%2B-4B275F?logo=elixir&logoColor=white)](https://elixir-lang.org/)
+[![License](https://img.shields.io/github/license/pckrishnadas88/elixir-distributed-systems-lab)](https://github.com/pckrishnadas88/elixir-distributed-systems-lab/blob/main/LICENSE)
 
 > Learn distributed systems by building them from first principles using raw Elixir process primitives.
 
@@ -97,11 +103,13 @@ Every example is:
 
   * Blog post: [Process linking in Elixir](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
 
-* [ ] **05 - Supervisor From Scratch**
+* [x] **05 - Supervisor From Scratch**
 
   * Manual restart loop
   * One-for-one restart strategy
   * Why supervisors exist
+
+  * Blog post: [Supervisor from scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh)
 
 ---
 
