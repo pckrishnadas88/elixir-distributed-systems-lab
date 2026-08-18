@@ -1,4 +1,5 @@
 defmodule Worker do
+  # Workers are deliberately unlinked: monitoring observes them without sharing fate.
   def start(name) do
     spawn(fn -> loop(name) end)
   end
@@ -23,6 +24,7 @@ end
 defmodule MonitorDemo do
   def normal_exit do
     worker = Worker.start("worker-1")
+    # A monitor produces a unique reference and later sends a `:DOWN` message.
     ref = Process.monitor(worker)
 
     send(worker, :stop)
@@ -60,6 +62,7 @@ defmodule MonitorDemo do
     send(worker2, :crash)
     send(worker3, :stop)
 
+    # Track monitor references, not PIDs, because references identify each observation.
     wait_for_workers(%{
       ref1 => "worker-1",
       ref2 => "worker-2",
@@ -74,6 +77,7 @@ defmodule MonitorDemo do
   defp wait_for_workers(monitors) do
     receive do
       {:DOWN, ref, :process, pid, reason} ->
+        # Ignore unrelated DOWN messages; only the references we own affect this loop.
         case Map.pop(monitors, ref) do
           {nil, monitors} ->
             wait_for_workers(monitors)
@@ -90,6 +94,7 @@ defmodule MonitorDemo do
   end
 end
 
+# Run each termination mode in sequence from this script's main process.
 IO.puts("\n--- Normal Exit ---")
 MonitorDemo.normal_exit()
 
