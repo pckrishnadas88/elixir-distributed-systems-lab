@@ -1082,3 +1082,9 @@ Source code link: https://github.com/pckrishnadas88/elixir-distributed-systems-l
 ← Previous: [Part 4 — Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
 
 Next: Part 6 — Named Processes *(coming soon)* →
+
+---
+
+## Content License
+
+This article is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You may share and adapt it with attribution for non-commercial purposes. The accompanying source code remains licensed under the MIT License.

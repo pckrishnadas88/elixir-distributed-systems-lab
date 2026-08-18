@@ -281,4 +281,6 @@ Each project in this repository is accompanied by a technical article explaining
 
 # License
 
-MIT
+The source code in this repository is licensed under the [MIT License](LICENSE).
+
+The written articles in each `blog.md` file are licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). You may share and adapt that content with attribution, but not for commercial purposes.

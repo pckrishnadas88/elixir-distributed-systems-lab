@@ -712,3 +712,9 @@ The examples intentionally use low-level process primitives first so we can unde
 ← Previous: [Part 2 — Correlated Request/Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
 
 Next: [Part 4 — Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb) →
+
+---
+
+## Content License
+
+This article is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You may share and adapt it with attribution for non-commercial purposes. The accompanying source code remains licensed under the MIT License.
