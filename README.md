@@ -115,11 +115,13 @@ Every example is:
 
 ## Process Coordination
 
-* [ ] **06 - Named Processes**
+* [x] **06 - Named Processes**
 
   * Process registration
   * Global lookup
   * Avoiding PID sharing
+
+  * Blog post: [Named processes](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-6-named-processes-l3)
 
 * [ ] **07 - Worker Pool**
 
