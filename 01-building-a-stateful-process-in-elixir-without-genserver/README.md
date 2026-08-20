@@ -1,4 +1,4 @@
-# 01 - Process Mailbox
+# Building a Stateful Process in Elixir Without GenServer
 
 A minimal stateful server implemented using raw Elixir process primitives.
 
@@ -110,7 +110,7 @@ Clients communicate only by sending protocol messages.
 ## Running
 
 ```bash
-elixir mailbox.exs
+elixir building_a_stateful_process_in_elixir_without_genserver.exs
 ```
 
 Example output
@@ -254,7 +254,7 @@ The next example introduces request identifiers using `make_ref/0` so multiple c
 - Elixir `send/2`
 - Elixir `receive`
  
-- Blog post: [Building a stateful process in Elixir without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
+- Blog post: [Building a Stateful Process in Elixir Without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
 
 - Adjacent posts:
     - Previous: None

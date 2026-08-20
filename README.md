@@ -38,7 +38,7 @@ The intention is to understand **why** an abstraction exists before using it.
 ```text
 elixir-distributed-systems-lab/
 │
-├── 01-process-mailbox/
+├── 01-building-a-stateful-process-in-elixir-without-genserver/
 ├── 02-request-reply/
 ├── 03-process-monitoring/
 ├── ...
@@ -67,7 +67,7 @@ Every example is:
 
 ## Foundations
 
-* [x] **01 - Process Mailbox**
+* [x] **Building a Stateful Process in Elixir Without GenServer**
 
   * `spawn/1`
   * Process state
@@ -76,7 +76,7 @@ Every example is:
   * `receive`
   * Request–reply protocol
   
-  * Blog post: [Building a stateful process in Elixir without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
+  * Blog post: [Building a Stateful Process in Elixir Without GenServer](https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb)
 
 * [x] **02 - Correlated Request Reply**
 
@@ -256,9 +256,9 @@ Developers interested in:
 # Running an Example
 
 ```bash
-cd 01-process-mailbox
+cd 01-building-a-stateful-process-in-elixir-without-genserver
 
-elixir mailbox.exs
+elixir building_a_stateful_process_in_elixir_without_genserver.exs
 ```
 
 Each example is completely independent and can be studied in any order, although following the roadmap is recommended.

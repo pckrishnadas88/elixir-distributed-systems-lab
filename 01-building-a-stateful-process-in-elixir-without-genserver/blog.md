@@ -1,4 +1,4 @@
-# Building Distributed Systems in Elixir: Part 1 - Building a Stateful Process in Elixir Without GenServer
+# Building a Stateful Process in Elixir Without GenServer
 
 
 > **Series:** Distributed Systems from First Principles — Part 1
@@ -397,13 +397,13 @@ Although intentionally minimal, this example forms the foundation for understand
 
 ---
 
-Source code link : https://github.com/pckrishnadas88/elixir-distributed-systems-lab/tree/main/01-process-mailbox
+Source code link : https://github.com/pckrishnadas88/elixir-distributed-systems-lab/tree/main/01-building-a-stateful-process-in-elixir-without-genserver
 
 ---
 
 ## Series
 
-1. **Process Mailbox**
+1. **Building a Stateful Process in Elixir Without GenServer**
 2. [Correlated Request/Reply](https://dev.to/pckrishnadas88/building-distributed-systems-with-elixir-02-correlated-request-reply-4b2a)
 3. [Process Monitoring](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p)
 4. [Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
