@@ -123,11 +123,13 @@ Every example is:
 
   * Blog post: [Named processes](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-6-named-processes-l3)
 
-* [ ] **07 - Worker Pool**
+* [x] **07 - Worker Pool**
 
   * Task distribution
   * Multiple workers
   * Load balancing
+
+  * Blog post: [Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23)
 
 * [ ] **08 - Publish / Subscribe**
 

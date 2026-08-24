@@ -229,7 +229,7 @@ Project 08 explores dynamic supervision and failure recovery patterns for manage
 
 ## References
 
-- Blog post: [Building Distributed Systems in Elixir: Part 7 — Worker Pool](blog.md)
+- Blog post: [Building Distributed Systems in Elixir: Part 7 — Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23)
 - Previous: [06 - Named Processes](../06-named-processes/README.md)
 - Elixir documentation: [`Process.sleep/1`](https://hexdocs.pm/elixir/Process.html#sleep/1)
 - Elixir documentation: [`send/2`](https://hexdocs.pm/elixir/Process.html#send/2)

@@ -437,12 +437,13 @@ Source code link: https://github.com/pckrishnadas88/elixir-distributed-systems-l
 4. [Process Linking](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb)
 5. [Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh)
 6. **Named Processes**
+7. [Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23)
 
 ---
 
 ← Previous: [Part 5 — Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh)
 
-Next: Part 7 — Worker Pool *(coming soon)* →
+Next: [Part 7 — Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23) →
 
 ---
 
