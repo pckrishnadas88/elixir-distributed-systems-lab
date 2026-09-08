@@ -131,10 +131,12 @@ Every example is:
 
   * Blog post: [Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23)
 
-* [ ] **08 - Publish / Subscribe**
+* [x] **08 - Publish / Subscribe**
 
   * Multiple subscribers
   * Broadcast messaging
+
+  * Blog post: [Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe)
 
 * [ ] **09 - Backpressure**
 

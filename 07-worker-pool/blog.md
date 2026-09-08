@@ -420,12 +420,13 @@ Source code link: https://github.com/pckrishnadas88/elixir-distributed-systems-l
 5. [Supervisor From Scratch](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh)
 6. [Named Processes](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-6-named-processes-3k8a)
 7. **Worker Pool**
+8. [Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe)
 
 ---
 
 ← Previous: [Part 6 — Named Processes](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-6-named-processes-3k8a)
 
-Next: Part 8 — Publish / Subscribe *(coming soon)* →
+Next: [Part 8 — Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe) →
 
 ---
 
