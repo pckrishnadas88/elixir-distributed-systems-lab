@@ -138,11 +138,13 @@ Every example is:
 
   * Blog post: [Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe-cl3)
 
-* [ ] **09 - Backpressure**
+* [x] **09 - Backpressure**
 
   * Fast producers
   * Slow consumers
   * Mailbox growth
+
+  * Blog post: [Backpressure](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-9-backpressure)
 
 ---
 

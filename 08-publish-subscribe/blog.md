@@ -660,13 +660,13 @@ In **Part 9: Backpressure**, we'll explore fast producers, slow consumers, mailb
 6. [Named Processes](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-6-named-processes-3k8a)
 7. [Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23)
 8. **Publish / Subscribe**
-9. Backpressure *(coming soon)*
+9. [Backpressure](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-9-backpressure)
 
 ---
 
 ← Previous: [Part 7 — Worker Pool](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-7-worker-pool-f23)
 
-Next: Part 9 — Backpressure *(coming soon)* →
+Next: [Part 9 — Backpressure](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-9-backpressure) →
 
 ---
 
