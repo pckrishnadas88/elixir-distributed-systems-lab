@@ -136,7 +136,7 @@ Every example is:
   * Multiple subscribers
   * Broadcast messaging
 
-  * Blog post: [Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe)
+  * Blog post: [Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe-cl3)
 
 * [ ] **09 - Backpressure**
 

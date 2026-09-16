@@ -333,7 +333,7 @@ Project 09 explores **Backpressure**—analyzing what happens when fast producer
 
 ## References
 
-* Blog post: [Building Distributed Systems in Elixir: Part 8 — Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe)
+* Blog post: [Building Distributed Systems in Elixir: Part 8 — Publish / Subscribe](https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-8-publish-subscribe-cl3)
 * Previous: [07 - Worker Pool](../07-worker-pool/README.md)
 * Next: [09 - Backpressure](../09-backpressure/README.md) *(upcoming)*
 * Elixir documentation: [`send/2`](https://hexdocs.pm/elixir/Process.html#send/2)
